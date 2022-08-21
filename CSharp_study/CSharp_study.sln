@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_study_01_start", "CS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp_study_03_字符类型", "Csharp_study_03_字符类型\Csharp_study_03_字符类型.csproj", "{8509B65B-E9AA-4FA9-9C91-2C839FDB5713}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_study_04_输入和字符转换", "Csharp_study_04_输入和字符转换\Csharp_study_04_输入和字符转换.csproj", "{919B7F3F-5BE8-4E6C-B58D-A3062B3E4D9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp_study_04_输入和字符转换", "Csharp_study_04_输入和字符转换\Csharp_study_04_输入和字符转换.csproj", "{919B7F3F-5BE8-4E6C-B58D-A3062B3E4D9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_study_05_阶段练习", "Csharp_study_05_阶段练习\Csharp_study_05_阶段练习.csproj", "{9968BC7F-E74F-49CA-A921-ED68B3D44798}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{919B7F3F-5BE8-4E6C-B58D-A3062B3E4D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{919B7F3F-5BE8-4E6C-B58D-A3062B3E4D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{919B7F3F-5BE8-4E6C-B58D-A3062B3E4D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9968BC7F-E74F-49CA-A921-ED68B3D44798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9968BC7F-E74F-49CA-A921-ED68B3D44798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9968BC7F-E74F-49CA-A921-ED68B3D44798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9968BC7F-E74F-49CA-A921-ED68B3D44798}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
