@@ -36,13 +36,18 @@ namespace Csharp_study_05_阶段练习
 
             //练习3：输⼊数学的分数，和英语的分数，判断是否可以获得奖励，只有数学和英语分数都考到90分才有奖励。
 
-            Console.WriteLine("请输入数学成绩：");
-            int math = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("请输入语文成绩：");
-            int language = Convert.ToInt32(Console.ReadLine());
-            bool reward = math >= 90 && language >= 90;
-            Console.WriteLine(reward);
+            //Console.WriteLine("请输入数学成绩：");
+            //int math = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("请输入语文成绩：");
+            //int language = Convert.ToInt32(Console.ReadLine());
+            //bool reward = math >= 90 && language >= 90;
+            //Console.WriteLine(reward);
 
+            char c = Convert.ToChar(Console.ReadLine());
+            if (c >= '0' && c <= '9')
+            {
+                Console.WriteLine(c-'0');
+            }
         }
     }
 }
